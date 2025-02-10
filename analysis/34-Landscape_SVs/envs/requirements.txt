@@ -1,0 +1,189 @@
+aiodns==2.0.0
+aiohappyeyeballs==2.4.3
+aiohttp==3.11.2
+aiosignal==1.3.1
+alabaster @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/alabaster/alabaster-0.7.12
+appdirs @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/appdirs/appdirs-1.4.4
+asn1crypto @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/asn1crypto/asn1crypto-1.5.1
+async-timeout==5.0.1
+atomicwrites @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/atomicwrites/atomicwrites-1.4.0
+attrs @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/attrs/attrs-21.4.0
+avro==1.11.3
+azure-common==1.1.28
+azure-core==1.32.0
+azure-identity==1.19.0
+azure-mgmt-core==1.5.0
+azure-mgmt-storage==20.1.0
+azure-storage-blob==12.24.0
+Babel @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/Babel/Babel-2.10.1
+backports.entry-points-selectable @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/backportsentry_points_selectable/backports.entry_points_selectable-1.1.1
+backports.functools-lru-cache @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/backportsfunctools_lru_cache/backports.functools_lru_cache-1.6.4
+bcrypt @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/bcrypt/bcrypt-3.2.2
+bitstring @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/bitstring/bitstring-3.1.9
+blist @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/blist/blist-1.3.6
+bokeh==3.3.4
+boto3==1.35.62
+botocore==1.35.62
+CacheControl @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/CacheControl/CacheControl-0.12.11
+cachetools==5.5.0
+cachy @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/cachy/cachy-0.3.0
+certifi @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/certifi/certifi-2021.10.8
+cffi @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/cffi/cffi-1.15.0
+chardet @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/chardet/chardet-4.0.0
+charset-normalizer @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/charsetnormalizer/charset-normalizer-2.0.12
+cleo @ file:///apps/easybuild-2022/easybuild/sources/p/Python/extensions/cleo-0.8.1-py2.py3-none-any.whl
+click @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/click/click-8.1.3
+clikit @ file:///apps/easybuild-2022/easybuild/sources/p/Python/extensions/clikit-0.6.2-py2.py3-none-any.whl
+colorama @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/colorama/colorama-0.4.4
+commonmark==0.9.1
+contourpy==1.3.1
+crashtest @ file:///apps/easybuild-2022/easybuild/sources/p/Python/extensions/crashtest-0.3.1-py3-none-any.whl
+cryptography @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/cryptography/cryptography-37.0.1
+Cython @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/Cython/Cython-0.29.28
+decorator==4.4.2
+Deprecated==1.2.14
+dill==0.3.9
+distlib @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/distlib/distlib-0.3.4
+docopt @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/docopt/docopt-0.6.2
+docutils @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/docutils/docutils-0.17.1
+ecdsa @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/ecdsa/ecdsa-0.17.0
+editables @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/editables/editables-0.3
+fast-lineage-caller @ file:///data/gpfs/projects/punim1637/Aleix/fast-lineage-caller/dist/fast_lineage_caller-0.3.1.tar.gz
+filelock @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/filelock/filelock-3.6.0
+flit @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/flit/flit-3.7.1
+flit_core @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/flitcore/flit_core-3.7.1
+frozenlist==1.5.0
+fsspec @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/fsspec/fsspec-2022.3.0
+future @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/future/future-0.18.2
+glob2 @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/glob2/glob2-0.7
+google-auth==2.36.0
+google-auth-oauthlib==0.8.0
+hail==0.2.133
+html5lib @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/html5lib/html5lib-1.1
+humanize==4.11.0
+idna @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/idna/idna-3.3
+imagesize @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/imagesize/imagesize-1.3.0
+importlib-metadata @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/importlib_metadata/importlib_metadata-4.11.3
+importlib-resources @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/importlib_resources/importlib_resources-5.7.1
+iniconfig @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/iniconfig/iniconfig-1.1.1
+intervaltree @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/intervaltree/intervaltree-3.1.0
+intreehooks @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/intreehooks/intreehooks-1.0
+ipaddress @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/ipaddress/ipaddress-1.0.23
+isodate==0.7.2
+janus==1.0.0
+jeepney @ file:///apps/easybuild-2022/easybuild/sources/p/Python/extensions/jeepney-0.8.0-py3-none-any.whl
+Jinja2 @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/Jinja2/Jinja2-3.1.2
+jmespath==1.0.1
+joblib @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/joblib/joblib-1.1.0
+jproperties==2.1.2
+jsonschema @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/jsonschema/jsonschema-4.4.0
+keyring @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/keyring/keyring-23.5.0
+keyrings.alt @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/keyringsalt/keyrings.alt-4.1.0
+liac-arff @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/liacarff/liac-arff-2.5.0
+lockfile @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/lockfile/lockfile-0.12.2
+MarkupSafe @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/MarkupSafe/MarkupSafe-2.1.1
+mock @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/mock/mock-4.0.3
+more-itertools @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/moreitertools/more-itertools-8.12.0
+msal==1.31.0
+msal-extensions==1.2.0
+msgpack @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/msgpack/msgpack-1.0.3
+msrest==0.7.1
+multidict==6.1.0
+nest-asyncio==1.6.0
+netaddr @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/netaddr/netaddr-0.8.0
+netifaces @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/netifaces/netifaces-0.11.0
+numpy==1.24.4
+oauthlib==3.2.2
+orjson==3.10.11
+packaging @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/packaging/packaging-20.9
+pandas==2.2.3
+paramiko @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/paramiko/paramiko-2.10.4
+parsimonious==0.10.0
+pastel @ file:///apps/easybuild-2022/easybuild/sources/p/Python/extensions/pastel-0.2.1-py2.py3-none-any.whl
+pathlib2 @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/pathlib2/pathlib2-2.3.7.post1
+pathspec @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/pathspec/pathspec-0.9.0
+pbr @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/pbr/pbr-5.8.1
+pexpect @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/pexpect/pexpect-4.8.0
+pillow==11.0.0
+pkginfo @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/pkginfo/pkginfo-1.8.2
+platformdirs @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/platformdirs/platformdirs-2.4.1
+plotly==5.24.1
+pluggy @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/pluggy/pluggy-1.0.0
+poetry @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/poetry/poetry-1.1.13
+poetry-core @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/poetrycore/poetry-core-1.0.8
+portalocker==2.10.1
+propcache==0.2.0
+protobuf==3.20.2
+psutil @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/psutil/psutil-5.9.0
+ptyprocess @ file:///apps/easybuild-2022/easybuild/sources/p/Python/extensions/ptyprocess-0.7.0-py2.py3-none-any.whl
+py @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/py/py-1.11.0
+py-expression-eval @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/py_expression_eval/py_expression_eval-0.3.14
+py4j==0.10.9.7
+pyasn1 @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/pyasn1/pyasn1-0.4.8
+pyasn1_modules==0.4.1
+pycares==4.4.0
+pycparser @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/pycparser/pycparser-2.21
+pycryptodome @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/pycryptodome/pycryptodome-3.17
+Pygments @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/Pygments/Pygments-2.12.0
+PyJWT==2.9.0
+pylev @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/pylev/pylev-1.4.0
+PyNaCl @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/PyNaCl/PyNaCl-1.5.0
+pyparsing @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/pyparsing/pyparsing-3.0.8
+pyrsistent @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/pyrsistent/pyrsistent-0.18.1
+pyspark==3.5.3
+pytest @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/pytest/pytest-7.1.2
+python-dateutil @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/pythondateutil/python-dateutil-2.8.2
+python-json-logger==2.0.7
+pytoml @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/pytoml/pytoml-0.1.21
+pytz @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/pytz/pytz-2022.1
+PyYAML==6.0.2
+regex @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/regex/regex-2022.4.24
+requests==2.32.3
+requests-oauthlib==2.0.0
+requests-toolbelt @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/requeststoolbelt/requests-toolbelt-0.9.1
+rich==12.6.0
+rsa==4.9
+s3transfer==0.10.3
+scandir @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/scandir/scandir-1.10.0
+SecretStorage @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/SecretStorage/SecretStorage-3.3.2
+semantic-version @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/semantic_version/semantic_version-2.9.0
+setuptools-rust @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/setuptoolsrust/setuptools-rust-1.3.0
+setuptools-scm @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/setuptools_scm/setuptools_scm-6.4.2
+shellingham @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/shellingham/shellingham-1.4.0
+simplegeneric @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/simplegeneric/simplegeneric-0.8.1
+simplejson @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/simplejson/simplejson-3.17.6
+six @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/six/six-1.16.0
+snowballstemmer @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/snowballstemmer/snowballstemmer-2.2.0
+sortedcontainers @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/sortedcontainers/sortedcontainers-2.4.0
+Sphinx @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/Sphinx/Sphinx-4.5.0
+sphinx-bootstrap-theme @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/sphinxbootstraptheme/sphinx-bootstrap-theme-0.8.1
+sphinxcontrib-applehelp @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/sphinxcontribapplehelp/sphinxcontrib-applehelp-1.0.2
+sphinxcontrib-devhelp @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/sphinxcontribdevhelp/sphinxcontrib-devhelp-1.0.2
+sphinxcontrib-htmlhelp @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/sphinxcontribhtmlhelp/sphinxcontrib-htmlhelp-2.0.0
+sphinxcontrib-jsmath @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/sphinxcontribjsmath/sphinxcontrib-jsmath-1.0.1
+sphinxcontrib-qthelp @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/sphinxcontribqthelp/sphinxcontrib-qthelp-1.0.3
+sphinxcontrib-serializinghtml @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/sphinxcontribserializinghtml/sphinxcontrib-serializinghtml-1.1.5
+sphinxcontrib-websupport @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/sphinxcontribwebsupport/sphinxcontrib-websupport-1.2.4
+tabulate @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/tabulate/tabulate-0.8.9
+tenacity==9.0.0
+threadpoolctl @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/threadpoolctl/threadpoolctl-3.1.0
+toml @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/toml/toml-0.10.2
+tomli @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/tomli/tomli-2.0.1
+tomli_w @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/tomli_w/tomli_w-1.0.0
+tomlkit @ file:///apps/easybuild-2022/easybuild/sources/p/Python/extensions/tomlkit-0.10.2-py3-none-any.whl
+tornado==6.4.1
+typer==0.13.0
+typing_extensions==4.12.2
+tzdata==2024.2
+ujson @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/ujson/ujson-5.2.0
+urllib3 @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/urllib3/urllib3-1.26.9
+uvloop==0.21.0
+virtualenv @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/virtualenv/virtualenv-20.14.1
+wcwidth @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/wcwidth/wcwidth-0.2.5
+webencodings @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/webencodings/webencodings-0.5.1
+wrapt==1.16.0
+xlrd @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/xlrd/xlrd-2.0.1
+xyzservices==2024.9.0
+yarl==1.17.1
+zipfile36 @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/zipfile36/zipfile36-0.1.3
+zipp @ file:///apps/easybuild-2022/easybuild/build/Python/3.10.4/GCCcore-11.3.0/zipp/zipp-3.8.0
