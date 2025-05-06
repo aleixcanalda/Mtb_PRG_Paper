@@ -6,7 +6,9 @@ Description of the code:
 
 * DR_matrix.R: R script for joining all 44k isolates' VCFs into one large matrix.
 
-* DR.R: R script for finding DR-associates SVs and genes. Main script of this section.
+* DR.R: R script for finding DR-associated SVs and genes. Main script of this section.
+
+* genotyping.cmd: pipeline for obtaining SVs from short-read Mtb data.
 
 * hail.py: python script for running hail, a tool to do PCA of large datasets.
 
