@@ -1,4 +1,4 @@
-# Code for "Discovery of DR-associated SVs in 42,365 Mtb isolates"
+# Code for "Discovery of DR-associated SVs in 41,134 Mtb isolates"
 
 Description of the code:
 
